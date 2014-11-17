@@ -1,4 +1,2 @@
-unity
+Unity Team Project [Loan Runner game]
 =====
-
-unity project
